@@ -1,0 +1,4 @@
+export const SET_CATEGORIES = 'SET_CATEGORIES';
+export const SET_ITEMS = 'SET_ITEMS';
+export const SET_USER_ACTION = 'SET_USER_ACTION';
+export const REMOVE_USER_ACTION = 'REMOVE_USER_ACTION';
